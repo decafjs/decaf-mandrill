@@ -14,7 +14,7 @@
         "email"
     ],
     "dependencies" : {
-        "decaf-email" : "git://github.com/decafjs/decaf-email#master",
+        "decaf-email" : "git://github.com/decafjs/decaf-email#master"
     },
     "devDependencies" : {
     },
