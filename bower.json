@@ -1,12 +1,29 @@
 {
     "name"         : "decaf-mandrill",
-    "version"      : "0.0.1",
     "main"         : "index.js",
+    "version"      : "0.0.1",
+    "homepage"     : "https://github.com/decafjs/decaf-mandrill",
+    "authors": [
+      "Michael Schwartz <mykesx@gmail.com>"
+    ],
+    "description": "Mandrill module for decafjs",
     "ignore" : [
+    ],
+    "keywords" : [
+        "smtp",
+        "email"
     ],
     "dependencies" : {
         "decaf-email" : "git://github.com/decafjs/decaf-email#master",
     },
     "devDependencies" : {
-    }
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
