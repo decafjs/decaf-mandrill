@@ -1,0 +1,8 @@
+{
+    "name"         : "decaf-mandrill",
+    "version"      : "0.0.1",
+    "main"         : "index.js",
+    "dependencies" : {
+        "decaf-email" : "git://github.com/decafjs/decaf-email#master",
+    }
+}
